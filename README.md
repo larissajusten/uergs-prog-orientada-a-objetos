@@ -10,6 +10,7 @@ Não estão sendo levados em conta métodos de otimização e melhora do código
 
 - [ ] Modificar Exercicio 1 para C++.
 - [ ] Modificar Exercicio 2 para C++.
+- [ ] Adicionar descrições dos Exercicios.
 - [ ] Adicionar exemplos disponibilizados pelo professor.
 
 ## Contribuições
