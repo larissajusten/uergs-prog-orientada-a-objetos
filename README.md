@@ -6,6 +6,12 @@ Os programas foram desenvolvidos inicialmente em Java e estão sendo convertidos
 
 Não estão sendo levados em conta métodos de otimização e melhora do código.
 
+## Roteiro
+
+- [ ] Modificar Exercicio 1 para C++.
+- [ ] Modificar Exercicio 2 para C++.
+- [ ] Adicionar exemplos disponibilizados pelo professor.
+
 ## Contribuições
 Pull requests são bem-vindos. Para grandes mudanças, por favor, abra um issue primeiro para discutir o que você gostaria de mudar.
 
