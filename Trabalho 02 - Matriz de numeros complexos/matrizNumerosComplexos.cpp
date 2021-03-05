@@ -184,7 +184,7 @@ class Complexo
       return to_string(arredondaValor(magnitude)) + " L " + to_string(arredondaValor(angulo));
     }
 
-  /** Comparações */
+  /** Operacoes para comparar */
   private:
     string compararPorAngulo(Complexo* valor, string valorFormatado)
     {
