@@ -30,7 +30,7 @@ Ou utilize o atalho ```F9```.
 
 Utilize o myCompiler.io, onde a cópia do programa está hospedada.
 
-[Link do programa online](https://www.mycompiler.io/view/CZsqU6u).
+[Link do programa online](https://www.mycompiler.io/view/8L1X1nO).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
